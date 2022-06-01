@@ -4,7 +4,7 @@ May 29th, 2022
 
 Question 2
 
-This program determins the length of a ladder (in feet) that is required to reach a given height when leaned against a house.
+This program determines the length of a ladder (in feet) that is required to reach a given height when leaned against a house.
 It prompts the user for the height in feet and the angle in degrees of the ladder.
 The answer is then rounded to 2 decimal points.
 '''
