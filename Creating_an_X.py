@@ -19,7 +19,7 @@ def print_X(n, c):
 
 
 def main():
-    print("This program prints the letter X using the character of your chooice.")
+    print("This program prints the letter X using the character of your choice.")
     n = int(input("Enter a positive odd integer: "))
     if n < 1:
         print("This integer is not positive.")
